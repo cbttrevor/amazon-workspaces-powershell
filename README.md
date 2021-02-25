@@ -1,0 +1,1 @@
+## Automate Amazon WorkSpaces using AWS Tools for PowerShell
